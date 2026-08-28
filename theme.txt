@@ -1,0 +1,50 @@
+# Main options
+title-text: ""
+desktop-image: "FANTASI.png"
+desktop-color: "#000000"
+terminal-font: "Terminus Regular 14"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Boot menu
++ boot_menu {
+  left = 45%
+  top = 23%
+  width = 52%
+  height = 65%
+  item_font = "Ubuntu Regular 20"
+  item_color = "#000000"
+  selected_item_color = "#FF0006"
+  icon_width = 38
+  icon_height = 38
+  item_icon_space = 20
+  item_height = 40
+  item_padding = 2
+  item_spacing = 10
+  selected_item_pixmap_style = "select_*.png"
+}
+
+# keys
++ image {
+	left = 1533
+	top = 1025
+	width = 349
+	height = 30
+	file = "assets/key-hd.png"
+}
+
+# Countdown label
+# You can change the name of default starting OS here
++ label {
+  left = 43%
+  top = 88%
+  align = "left"
+  id = "__timeout__"
+  text = "Akan booting otomatis dalam %d detik"
+  color = "#000000"
+  font = "Ubuntu Regular 17"
+}
