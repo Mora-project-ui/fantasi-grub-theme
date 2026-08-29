@@ -8,7 +8,7 @@ A fantasy book & galaxy parchment styled GRUB bootloader theme for Linux.
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/Mora-project-ui/fantasi-grub-theme.git](https://github.com/Mora-project-ui/fantasi-grub-theme.git)
+git clone https://github.com/Mora-project-ui/fantasi-grub-theme.git
 cd fantasi-grub-theme
 ```
 
