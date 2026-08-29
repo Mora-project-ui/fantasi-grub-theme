@@ -7,15 +7,18 @@ A fantasy book & galaxy parchment styled GRUB bootloader theme for Linux.
 ## 📥 Installation
 
 1. Clone this repository:
-   \`\`\`bash
+   ```sh
+   bash
    git clone https://github.com/Mora-project-ui/fantasi-grub-theme.git
    cd fantasi-grub-theme
-   \`\`\`
+   ```
 
 2. Run the installer script:
-   \`\`\`bash
+
+   ```sh
+   bash
    chmod +x install.sh
    sudo ./install.sh
-   \`\`\`
+   ```
 
-3. Reboot your system to see the magic! ✨
+4. Reboot your system to see your new grub! ✨
