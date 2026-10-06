@@ -1,6 +1,10 @@
 # 🌌 Fantasi GRUB Theme
 
-A fantasy book & galaxy parchment styled GRUB bootloader theme for Linux.
+A custom GRUB bootloader theme inspired by fantasy books, aged parchment, and the night sky.
+
+The design combines a parchment-inspired interface with a dark galaxy background, creating a boot menu that feels closer to a fantasy book than a traditional system boot screen.
+
+This theme was built as a personal Linux customization project. It also served as an opportunity to explore GRUB's theme system, interface layout, typography, and visual composition.
 
 ![Preview](preview.png)
 
