@@ -1,25 +1,30 @@
 # 🌌 Fantasi GRUB Theme
 
-A custom GRUB bootloader theme inspired by fantasy books, aged parchment, and the night sky.
-
-The design combines a parchment-inspired interface with a dark galaxy background, creating a boot menu that feels closer to a fantasy book than a traditional system boot screen.
-
-This theme was built as a personal Linux customization project. It also served as an opportunity to explore GRUB's theme system, interface layout, typography, and visual composition.
+> A custom GRUB bootloader theme inspired by fantasy literature, aged parchment, and deep space aesthetics.
 
 ![Preview](preview.png)
 
-### 📥 Installation
+## 📖 Overview
 
-1. Clone this repository:
-```bash
-git clone https://github.com/Mora-project-ui/fantasi-grub-theme.git
-cd fantasi-grub-theme
-```
+Fantasi GRUB Theme transforms the standard system boot menu into an immersive, fantasy-inspired interface. It blends warm parchment design elements with a dark celestial background, giving Linux a distinct and refined look right from system startup.
 
-2. Run the installer script:
-```bash
-chmod +x install.sh
-sudo ./install.sh
-```
+Built as an open-source project to explore GRUB’s layout engine, custom typography, and visual UI constraints.
 
-3. Reboot your system to see your new grub! ✨
+---
+
+## ⚡ Features
+
+* **Fantasy-Inspired Aesthetics**: Parchment-style menu elements over a dark galaxy backdrop.
+* **Clean UI Layout**: Optimized font spacing and selection highlights for high readability.
+* **Automated Installation**: Simple shell script for quick installation and setup.
+
+---
+
+## 📦 Installation
+
+### Quick Install (Recommended)
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Mora-project-ui/fantasi-grub-theme.git](https://github.com/Mora-project-ui/fantasi-grub-theme.git)
+   cd fantasi-grub-theme
