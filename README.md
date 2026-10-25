@@ -24,7 +24,16 @@ Built as an open-source project to explore GRUB’s layout engine, custom typogr
 
 ### Quick Install (Recommended)
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Mora-project-ui/fantasi-grub-theme.git](https://github.com/Mora-project-ui/fantasi-grub-theme.git)
-   cd fantasi-grub-theme
+1. Clone this repository:
+```bash
+git clone https://github.com/Mora-project-ui/fantasi-grub-theme.git
+cd fantasi-grub-theme
+```
+
+2. Run the installer script:
+```bash
+chmod +x install.sh
+sudo ./install.sh
+```
+
+3. Reboot your system to see your new grub! ✨
